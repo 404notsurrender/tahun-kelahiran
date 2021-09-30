@@ -1,5 +1,5 @@
 ## ISENG AJ
-
+## 2021 COPYRIGHT 404notsurrender
 value =input("Please input your age:")
 try:
    value = 2021-value 
